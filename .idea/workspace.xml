@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4528dbe-e4d2-430d-89df-86cffa6749f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f4528dbe-e4d2-430d-89df-86cffa6749f0" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587098749382</updated>
-      <workItem from="1587098751395" duration="2922000" />
+      <workItem from="1587098751395" duration="3249000" />
     </task>
     <task id="LOCAL-00001" summary="add client index.js">
       <created>1587106525255</created>
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587106525255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1587107674316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587107674316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,13 +76,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add client index.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add client index.js" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="456" y="175" key="CommitChangelistDialog2" timestamp="1587106525149">
+    <state x="456" y="175" key="CommitChangelistDialog2" timestamp="1587107688556">
       <screen x="0" y="23" width="1749" height="1097" />
     </state>
-    <state x="456" y="175" key="CommitChangelistDialog2/0.23.1749.1097@0.23.1749.1097" timestamp="1587106525149" />
+    <state x="456" y="175" key="CommitChangelistDialog2/0.23.1749.1097@0.23.1749.1097" timestamp="1587107688556" />
     <state x="376" y="210" key="SettingsEditor" timestamp="1587106449023">
       <screen x="0" y="23" width="1749" height="1097" />
     </state>

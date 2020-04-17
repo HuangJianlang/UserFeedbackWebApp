@@ -11,7 +11,7 @@ const app = express();
 //just like api in spring boot
 app.get("/", (req, res) => {
     res.send({
-        hi: "there"
+        hi: "Jianlang"
     });
 });
 
