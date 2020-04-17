@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4528dbe-e4d2-430d-89df-86cffa6749f0" name="Default Changelist" comment="" />
+    <list default="true" id="f4528dbe-e4d2-430d-89df-86cffa6749f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aeaw3gbe0NwPrjlZJmkFDe0SXZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,11 +44,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587098749382</updated>
-      <workItem from="1587098751395" duration="1716000" />
+      <workItem from="1587098751395" duration="1972000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="376" y="210" key="SettingsEditor" timestamp="1587106449023">
+      <screen x="0" y="23" width="1749" height="1097" />
+    </state>
+    <state x="376" y="210" key="SettingsEditor/0.23.1749.1097@0.23.1749.1097" timestamp="1587106449023" />
   </component>
 </project>
