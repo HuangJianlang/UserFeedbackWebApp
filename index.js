@@ -23,7 +23,6 @@ mongoose.connect(keys.mongooseURI, { useUnifiedTopology: true });
 //app
 const app = express();
 
-<<<<<<< HEAD
 //route handlers
 //just like api in spring boot
 app.get("/", (req, res) => {
@@ -35,7 +34,7 @@ app.get("/", (req, res) => {
 app.get("/Hi", (req, res) => {
     res.send("Hi, Jianlang");
 });
-=======
+
 //ask passport to deal with cookie
 app.use(
     cookieSession({
@@ -49,7 +48,6 @@ app.use(passport.session());
 
 require("./routes/authRoutes")(app);
 
->>>>>>> dev
 
 //underlying runtime inject env variable
 //In production || by default uses 5000 port
