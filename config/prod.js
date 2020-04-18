@@ -9,5 +9,3 @@ module.exports = {
     cookieKey: process.env.COOKIE_KEY
 }
 
-//client id
-//clientSecret spyCnBxeJilw5dwMIt-aUqHP
