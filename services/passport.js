@@ -24,7 +24,8 @@ passport.use(
         clientID: keys.googleClientID,
         clientSecret: keys.googleClientSecret,
         //routh that google redirect to(need to defined by myself)
-        callbackURL: "/auth/google/callback"
+        callbackURL: "/auth/google/callback",
+        proxy: true
     },
     //after get permission from user, google send accessToken and get all information we want
     (accessToken, refreshToken, profile, done) => {

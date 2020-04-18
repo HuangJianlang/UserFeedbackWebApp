@@ -23,9 +23,6 @@ mongoose.connect(keys.mongooseURI, { useUnifiedTopology: true });
 //app
 const app = express();
 
-//route handlers
-//just like api in spring boot
-
 //ask passport to deal with cookie
 app.use(
     cookieSession({
