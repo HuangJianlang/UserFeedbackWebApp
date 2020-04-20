@@ -6,6 +6,8 @@ module.exports = {
     //mogoose:
     mongooseURI: process.env.MONGOOSE_URI,
     //cookie key
-    cookieKey: process.env.COOKIE_KEY
+    cookieKey: process.env.COOKIE_KEY,
+    stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
+    stripeSecreteKey: process.env.STRIPE_SECRETE_KEY
 }
 

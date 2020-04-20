@@ -5,7 +5,8 @@ const { Schema } = mogoose;
 
 //define propriety in every record
 const userSchema = new Schema({
-    googleId: String
+    googleId: String,
+    credits: { type: Number, default: 0 }
 })
 
 //create a class == create a collection
